@@ -18,7 +18,7 @@ spec:
         tier: frontend
     spec:
       containers:
-      - image: sree7k7/next-app:sha-fe072d9
+      - image: sree7k7/next-app:sha-61fbd10
         name: web-app
         resources: {}
 status: {}
